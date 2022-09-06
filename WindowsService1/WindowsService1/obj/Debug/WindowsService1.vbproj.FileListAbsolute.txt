@@ -1,0 +1,12 @@
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.xml
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.vbproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.Resources.resources
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.vbproj.GenerateResource.cache
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.vbproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.xml
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\PC1\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
